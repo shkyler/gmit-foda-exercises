@@ -6,10 +6,10 @@ This repository contains all of the files pertaining to my assignment submission
 ### Repository contents
 
 The repository contains:
-* numpyrandom.ipynb - the notebook with all the project detail
-* this README.md file
-* an 'img' folder containing images for the notebook
-* a 'data' folder containing the anscombes quartet data set in a .csv file
+* `anscombes.ipynb` - the notebook with all the project detail
+* this `README.md` file
+* an `img` folder containing images for the notebook
+* a `data` folder containing the anscombes quartet data set in a .csv file
 
 ### Dependancies
 
@@ -19,12 +19,13 @@ The dependencies for this are:
 * numpy
 * pandas
 * Scipy
+* Jupyter notebooks
 
 It is recommended that the latest version of Anaconda is installed to ensure that all dependant software is installed and up to date.
 
 ### Installation instructions
 
-The software can be installed and run on a machine as follows:
+The software can be downloaded and run on a machine as follows:
 
 * Clone the repository with the following command
 ```
